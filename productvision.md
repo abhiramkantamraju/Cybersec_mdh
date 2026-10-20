@@ -1,13 +1,9 @@
-
-
 # Product Vision Statement
 
-- **FOR** university students and small-business employees who receive suspicious emails and have no security training,
-- **WHO** struggle to tell phishing emails from real ones and don't know why an email is risky,
-- **THE** PhishGuard **IS A** web-based phishing detection tool
-- **THAT** analyzes an email and its links, gives a clear risk score, and explains in plain language which signals made it suspicious.
-- **UNLIKE** built-in spam filters (Gmail, Outlook) and manual checking with separate URL scanners, which give no explanation or only a yes/no answer,
-- **OUR PRODUCT** combines several signals (email content and URL threat analysis) in one place and shows the reasoning behind every score, so users learn to spot phishing themselves.
+- **FOR** people with insomnia who struggle to fall asleep and stay asleep,
+- **WHO** need a way to sleep better that lasts, not just a quick fix each night,
+- **THE** SleepGen **IS A** habit-building sleep app
+- **THAT** helps users fall asleep faster and sleep more deeply by building healthy bedtime routines over time.
+- **UNLIKE** existing sleep apps (sleep sounds, meditation, trackers) that only help while you are using them,
+- **OUR PRODUCT** builds lasting sleep habits step by step, so users can eventually sleep well without needing the app at all.
 
-*Note: This is an initial hypothesis. The competitors listed are my current assumptions and will be refined as I learn more about users.*
-'@ | Set-Content -Encoding utf8 product-vision.md
